@@ -1,0 +1,56 @@
+k = 1:
+
+Correct_classified = 3826
+wrong classified   = 0174
+
+
+k = 3:
+
+Correct_classified = 3757
+wrong classified   = 0243
+
+
+k = 5:
+
+correct_classified = 3709
+wrong_classified   = 0291
+
+k = 7:
+
+correct_classified = 3690
+wrong_classified   = 0310
+
+k = 9:
+
+correct_classified = 3673
+wrong_classified   = 0327
+
+k = 11:
+
+correct_classified = 3633
+wrong_classified   = 0367
+
+k = 13:
+
+correct_classified = 3618
+wrong_classified   = 0382
+
+k = 15:
+
+correct_classified = 3599
+wrong_classified   = 0401
+
+k = 17:
+
+correct_classified = 3577
+wrong_classified   = 0423
+
+k = 19:
+
+correct_classified = 3542
+wrong_classified   = 0458
+
+k = 21:
+
+correct_classified = 3531
+wrong_classified   = 0469
